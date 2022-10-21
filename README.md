@@ -3,7 +3,7 @@
 ### MSc Project
 
 
-# Genre Based Trailer Generation with Deep Multimodal Learning
+# MULTI-LABEL MULTI-MODAL CLASSIFICATION OF MOVIE SCENES
 
 
 ### Author: Irmak Türköz,        irmak.turkoz@bilkent.edu.tr
@@ -42,3 +42,6 @@ result of the model is evaluated by comparing its classification performance wit
 human perception.
 
 ![Thesis Methodology Pipeline](https://user-images.githubusercontent.com/12885387/159249407-642ac5e0-c033-42c5-8c9e-de03f7ecbcc2.png)
+
+#Keywords: Movie Trailer Labeling, Scene Understanding, Deep Learning, Computer
+Vision.
